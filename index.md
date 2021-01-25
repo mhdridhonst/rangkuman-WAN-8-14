@@ -1,4 +1,4 @@
-##JARINGAN SELULER(8)
+## JARINGAN SELULER(8)
 prinsip jaringan seluler
 1. teknologi yang di pakai pada mobile phone dan jaringan nirkabe;
 2. menggantikan sistem transmiter dengan kebuthan daya besar
@@ -9,7 +9,7 @@ organisasi jaringan seuler:
 - dilayani oleh base station
 - cell yang betetangga menggunakan frekuensi yang berbeda
 
-#Generasi Seluler
+# Generasi Seluler
 1. 1G
 2. 2G
 3. 2.5G
@@ -20,7 +20,7 @@ organisasi jaringan seuler:
 8. 4G
 9. 5G
 
-##GSM(9)
+## GSM(9)
 GSM merupakan sebuah teknologi komunikasi seluler yang bersifat digital. Teknologi GSM banyak diterapkan pada mobile communication, khususnya handphone. Teknologi ini
 memanfaatkan gelombang mikro dan pengiriman sinyal yang dibagi berdasarkan waktu, sehingga sinyal informasi yang dikirim akan sampai pada tujuan.
 GSM dijadikan standar global untuk komunikasi selular sekaligus sebagai teknologi selular yang paling banyak digunakan orang di seluruh dunia.
@@ -30,11 +30,11 @@ Pada perkembangannya, jumlah kanal 124 tidak mencukupi untuk memenuhi kebutuhan 
 Untuk memenuhi kebutuhan kanal yang lebih banyak, maka regulator GSM di Eropa menggunakan tambahan frekuensi untuk GSM pada band frekuensi di range 1800 Mhz dengan frekuensi 1710-1785 Mhz sebagai frekuensi uplinks dan frekuensi 1805-1880 Mhz sebagai frekuensi downlinks.
 GSM dengan frekuensinya yang baru ini kemudian dikenal dengan sebutan GSM 1800, dimana tersedia bandwidth sebesar 75 Mhz (1880-1805 = 1785–1710 = 75 Mhz). Dengan lebar kanal yang tetap sama yaitu 200 Khz sama, pada saat GSM pada frekuensi 900Mhz, maka pada GSM 1800 ini akan tersedia sebanyak 375 kanal. Di Eropa, standar-standar GSM kemudian juga digunakan untuk komunikasi railway, yang kemudian dikenal dengan nama GSM-R.
 
-##CDMA(10)
+## CDMA(10)
 CDMA (code division multiple access) adalah teknologi akses jamak dimana masing-masing user menggunakan code yang unik dalam mengakses kanal yang terdapat dalam sistem.
 Pada CDMA, sinyal informasi pada transmitter dicoding dan disebar dengan bandwidth sebesar 1.25 MHz (spread spectrum), kemudian pada sisi repeater dilakukan decoding sehingga didapatkan sinyal informasi yang dibutuhkan.
 
-#sifat-sifat CDMA
+# sifat-sifat CDMA
 1. Kapasitas lebih tinggi
 2. Peningkatan call security
 3. Mereduksi derau dan interfensi lainnya
@@ -42,29 +42,29 @@ Pada CDMA, sinyal informasi pada transmitter dicoding dan disebar dengan bandwid
 5. Fasilitas koordinasi seluruh frekuensi
 6. Integrasi layanan suara,data dan video
 
-#kelebihan CDMA
+# kelebihan CDMA
 1. Menggunakan metode enkripsi dengan code unik untuk proses komunikasi, sehingga lebih aman
 2. Memiliki harga yang jauh lebih murah dibandingkan GSM
 3. Penggunanya yang tidak sebanyak GSM, membuat akses data menjadi lebih cepat
 
-#kekurangan CDMA
+# kekurangan CDMA
 1. Masih ada beberapa operator CDMA yang mengalami roaming
 2. Kompatibiltas handheld yang terbatas
 3. Coverage area yang tidak seluas GSM
 
-##SATELIT(11)
+## SATELIT(11)
 Satelit adalah benda yang mengorbit benda lain dengan periode revolusi dan rotasi tertentu. Ada dua jenis satelit yakni satelit alami dan satelit buatan. Sisa artikel ini akan berkisar tentang satelit buatan.
 Karakteristik Satelit:
 1. Yaitu dengan mengirimkan sinyal dari computer dan direlai oleh satelit tanpa di lakukan pemprosesan dalam satelit. Kelemahan metode ini, computer yang ter-hubung langsung pada satelit harus bekerja selama 24 jam. Jika salah satu computer dimatikan maka hubungan ke computer tersebut akan terputus. Keuntungannya satelit komunikasi konvensional dapat digunakan tanpa perlu dimodifikasi. 
 2. Pemanfaatan system komunikasi satelit telah memberikan kemampuan bagi manusia untuk berkomunikasi dan mendapatkan informasi dari berbagai penjuru dunia secara simultan tanpa memperhatikan jarak relatifnya. 
 
-#macam-macam satelit
+# macam-macam satelit
 1. Satelit Alami
 Satelit alami yaitu salah satu benda luar angkasa yang sudah ada (bukan buatan dari manusia) yang mengorbit sebuah planet. Satelit alami bumi yaitu bulan.
 2. Satelit Buatan
 Satelit buatan ialah salah satu benda luar angkasa buatan manusia yang mengorbit sebuah planet yang dalam pembuatannya mempunyai jenis dan fungsi tertentu dengan suatu tujuan untuk kepentingan manusia.
 
-##GPS(12)
+## GPS(12)
 GPS adalah nama yang umumnya. Akan tetapi, GPS atau Global Positioning System sebenarnya adalah sistem yang memungkinkan kita menentukan lokasi secara akurat menggunakan satelit, yang diciptakan oleh Amerika Serikat. Rusia (GLONASS) dan China (BeiDou) pun memiliki solusi penentu lokasi yang serupa.
 Untuk dapat mengetahui lokasinya dengan menggunakan satelit (GPS/GLONASS/BeiDou), smartphone sebenarnya tidak membutuhkan paket data.
 
@@ -87,7 +87,7 @@ Aplikasi remote sensing :
 2. ocean
 3. atmosphere
 
-##WIMAX(13)
+## WIMAX(13)
 WiMAX adalah singkatan dari Worldwide Interoperability for Microwave Access, merupakan teknologi akses nirkabel pita lebar (broadband wireless access atau disingkat BWA) yang memiliki kecepatan akses yang tinggi dengan jangkauan yang luas.
 Perbedaan Standar Wifi dan Wimax :
 IEEE 802.16 (Institute of Electrical and Electronics Engineering)
@@ -106,7 +106,7 @@ kabel yang high-bandwidth (seperti optik). Selain itu juga bisa tersambung ke Wi
 MANFAAT & KEUNTUNGAN: WiMAX dapat melayani pelanggannya dengan area yang lebih luas dan tingkat kompatibilitas lebih tinggi.
 Dapat melayani baik para pengguna dengan antena tetap (fixedwireless) misalnya di gedung-gedung perkantoran, rumah tinggal,toko-toko, dan sebagainya, maupun yang sering berpindah-pindah tempat atau perangkat mobile lainnya.
 
-##ANTENA(14)
+## ANTENA(14)
 Antena adalah konduktor elektrik yang berfungsi untuk Transmisi (Transmission) : Meradiasikan energi elektromagnetik ke ruang bebas/space
 Penerimaan (Reception) : Mengumpulkan/menerima energi elektromagnetik dari ruang bebas/space Pada komunikasi dua arah, antena yang sama dapat digunakan untuk transmission dan reception
 
